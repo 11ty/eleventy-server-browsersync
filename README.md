@@ -4,7 +4,7 @@
 
 A server plugin to use [Browsersync](https://browsersync.io/) with Eleventy 2.0+.
 
-## ➡ [Documentation](https://www.11ty.dev/docs/watch-serve/#using-browsersync-with-eleventy-2.0)
+## ➡ [Documentation: Swap back to Browsersync](https://www.11ty.dev/docs/watch-serve/#swap-back-to-browsersync)
 
 - Please star [Eleventy on GitHub](https://github.com/11ty/eleventy/)!
 - Follow us on Twitter [@eleven_ty](https://twitter.com/eleven_ty)
