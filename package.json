@@ -1,0 +1,37 @@
+{
+  "name": "@11ty/eleventy-server-browsersync",
+  "version": "1.0.0",
+  "description": "An Eleventy server plugin to use Browsersync with Eleventy 2.0+.",
+  "main": "server.js",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12"
+  },
+  "funding": {
+    "type": "opencollective",
+    "url": "https://opencollective.com/11ty"
+  },
+  "keywords": [
+    "eleventy",
+    "server"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": {
+    "name": "Zach Leatherman",
+    "email": "zachleatherman@gmail.com",
+    "url": "https://zachleat.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/11ty/eleventy-server-browsersync.git"
+  },
+  "bugs": "https://github.com/11ty/eleventy-server-browsersync/issues",
+  "homepage": "https://github.com/11ty/eleventy-server-browsersync/",
+  "dependencies": {
+    "browser-sync": "^2.27.7"
+  },
+  "devDependencies": {
+  }
+}
