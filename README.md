@@ -12,7 +12,7 @@ A server plugin to use [Browsersync](https://browsersync.io/) with Eleventy 2.0+
 - [11ty on npm](https://www.npmjs.com/org/11ty)
 - [11ty on GitHub](https://github.com/11ty)
 
-[![npm Version](https://img.shields.io/npm/v/@11ty/eleventy-dev-server.svg?style=for-the-badge)](https://www.npmjs.com/package/@11ty/eleventy-dev-server)
+[![npm Version](https://img.shields.io/npm/v/@11ty/eleventy-server-browsersync.svg?style=for-the-badge)](https://www.npmjs.com/package/@11ty/eleventy-server-browsersync)
 
 ## Installation
 
