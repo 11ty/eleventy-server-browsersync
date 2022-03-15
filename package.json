@@ -1,6 +1,6 @@
 {
   "name": "@11ty/eleventy-server-browsersync",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An Eleventy server plugin to use Browsersync with Eleventy 2.0+.",
   "main": "server.js",
   "license": "MIT",
