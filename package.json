@@ -15,6 +15,9 @@
     "eleventy",
     "server"
   ],
+  "11ty": {
+    "compatibility": ">=3"
+  },
   "publishConfig": {
     "access": "public"
   },
