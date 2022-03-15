@@ -16,7 +16,7 @@
     "server"
   ],
   "11ty": {
-    "compatibility": ">=3"
+    "compatibility": ">=2"
   },
   "publishConfig": {
     "access": "public"
