@@ -33,7 +33,7 @@
   "bugs": "https://github.com/11ty/eleventy-server-browsersync/issues",
   "homepage": "https://github.com/11ty/eleventy-server-browsersync/",
   "dependencies": {
-    "browser-sync": "^2.27.7"
+    "browser-sync": "^2.27.11"
   },
   "devDependencies": {
   }
