@@ -35,6 +35,8 @@
   "dependencies": {
     "browser-sync": "^3.0.4"
   },
-  "devDependencies": {
+  "devDependencies": {},
+  "overrides": {
+    "immutable": "4.3.9"
   }
 }
